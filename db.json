@@ -1,0 +1,310 @@
+{
+    "users" :[
+        {
+            "fullName": "John",
+            "username": "Chena",
+            "email": "John@mail.com",
+            "password": "password",
+            "id": 1
+        },
+        {
+            "fullName": "Rey",
+            "username": "Mysterio",
+            "email": "Rey@mail.com",
+            "password": "password",
+            "id": 2
+        },
+        {
+            "fullName": "Under",
+            "username": "Taker",
+            "email": "Under@mail.com",
+            "password": "password",
+            "id": 3
+        },
+        {
+            "fullName": "Mat",
+            "username": "Hardy",
+            "email": "Mat@mail.com",
+            "password": "password",
+            "id": 4
+        },
+        {
+            "fullName": "Jeff",
+            "username": "Hardy",
+            "email": "Jeff@mail.com",
+            "password": "password",
+            "id": 5
+        },
+        {
+            "fullName": "Torrie",
+            "username": "Wilson",
+            "email": "Torrie@mail.com",
+            "password": "password",
+            "id": 6
+        },
+        {
+            "fullName": "Stone",
+            "username": "Cold",
+            "email": "Stone@mail.com",
+            "password": "password",
+            "id": 7
+        },
+        {
+            "fullName": "Tajiri",
+            "username": "tajir",
+            "email": "Tajiri@mail.com",
+            "password": "password",
+            "id": 8
+        },
+        {
+            "fullName": "Conan",
+            "username": "Edogawa",
+            "email": "conan@mail.com",
+            "password": "password",
+            "id": 9
+        },
+        {
+            "fullName": "Kaito",
+            "username": "Kid",
+            "email": "Kaito@mail.com",
+            "password": "password",
+            "id": 10
+        },
+        {
+            "fullName": "Ran",
+            "username": "Mouri",
+            "email": "Ran@mail.com",
+            "password": "password",
+            "id": 11
+        },
+        {
+            "fullName": "Kogoro",
+            "username": "Mouri",
+            "email": "Kogoro@mail.com",
+            "password": "password",
+            "id": 12
+        },
+        {
+            "fullName": "Sonoko",
+            "username": "Suzuki",
+            "email": "sonoko@mail.com",
+            "password": "password",
+            "id": 13
+        },
+        {
+            "fullName": "Yusaku",
+            "username": "Kudo",
+            "email": "Yusaku@mail.com",
+            "password": "password",
+            "id": 14
+        },
+        {
+            "fullName": "Yukiko",
+            "username": "Kudo",
+            "email": "Yukiko@mail.com",
+            "password": "password",
+            "id": 15
+        },
+        {
+            "fullName": "Miftahul",
+            "username": "Ihsani",
+            "email": "Miftahul@mail.com",
+            "password": "password",
+            "id": 16
+        },
+        {
+            "fullName": "Muhammad",
+            "username": "Septian",
+            "email": "Muhammad@mail.com",
+            "password": "password",
+            "id": 17
+        },
+        {
+            "fullName": "Lutfi",
+            "username": "Nurrahman",
+            "email": "Lutfi@mail.com",
+            "password": "password",
+            "id": 18
+        },
+        {
+            "fullName": "Teddy",
+            "username": "Nurrahman",
+            "email": "Teddy@mail.com",
+            "password": "password",
+            "id": 19
+        },
+        {
+            "fullName": "Lucky",
+            "username": "Mardani",
+            "email": "Lucky@mail.com",
+            "password": "password",
+            "id": 20
+        }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "productName": "Ikan Mas Koki Ryukin Red White",
+            "price": 15000,
+            "productImage": "https://cdnt.orami.co.id/unsafe/468x312/cdn-cas.orami.co.id/parenting/images/ryukin.width-800.jpg",
+            "description": "Ikan mas Koki Ryukin ukuran small ",
+            "category": "Ikan Hias"
+          },
+          {
+            "id": 2,
+            "productName": "Ikan Mas Koki Black Moor",
+            "price": 15000,
+            "productImage": "https://cdnt.orami.co.id/unsafe/468x297/cdn-cas.orami.co.id/parenting/images/Black_Moor_Goldfish.width-800.jpg",
+            "description": "Ikan mas Koki Black Moor/Telescope ukuran small ",
+            "category": "Ikan Hias"
+          },
+          {
+            "id": 3,
+            "productName": "Ikan Mas Koki Bubble Eye",
+            "price": 25000,
+            "productImage": "https://cdnt.orami.co.id/unsafe/468x335/cdn-cas.orami.co.id/parenting/images/BubbleEyeGoldfish_1d2e9c57-b60a-4668-a2d3-5e50.width-800.jpg",
+            "description": "Ikan mas Koki Bubble eye berwarna: Kuning dan putih berukuran small ",
+            "category": "Ikan Hias"
+          },
+          {
+            "id": 4,
+            "productName": "Ikan Mas Koki Lion Head",
+            "price": 35000,
+            "productImage": "https://cdnt.orami.co.id/unsafe/468x330/cdn-cas.orami.co.id/parenting/images/lionhead-goldfish-swimming_Huy-Thoai_Shutterst.width-800.jpg",
+            "description": "Ikan mas Koki Lion Head berwarna: orange, putih, Merah, berukuran small ",
+            "category": "Ikan Hias"
+          },
+          {
+            "id": 5,
+            "productName": "Ikan Mas Koki Fantail",
+            "price": 45000,
+            "productImage": "https://cdnt.orami.co.id/unsafe/468x360/cdn-cas.orami.co.id/parenting/images/Fancy-Red-Fantail-Goldfish.width-800.jpg",
+            "description": "Ikan mas Koki Fantail berwarna: Orange, Putih berukuran small ",
+            "category": "Ikan Hias"
+          },
+          {
+            "id": 6,
+            "productName": "Ikan Mas Koki Shubunkin 3 Warna",
+            "price": 55000,
+            "productImage": "https://cdnt.orami.co.id/unsafe/468x279/cdn-cas.orami.co.id/parenting/images/Shubunkin-goldfish_Shutterstock_Noheaphotos.width-800.jpg",
+            "description": "Ikan mas Koki Shubunkin berwarna Orange, Putih, dan Hitam Berukuran small ",
+            "category": "Ikan Hias"
+          },
+          {
+            "id": 7,
+            "productName": "Ikan Mas Koki Oranda Redcup",
+            "price": 25000,
+            "productImage": "https://cdnt.orami.co.id/unsafe/468x312/cdn-cas.orami.co.id/parenting/images/DSC_1073.width-800.jpg",
+            "description": "Ikan mas Koki Oranda, Mempunyai warna putih di bagian badan dan merah di kepala Berukuran small ",
+            "category": "Ikan Hias"
+          },
+          {
+            "id": 8,
+            "productName": "Ikan Channa Barca",
+            "price": 250000000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Barca.jpg",
+            "description": "Ikan Channa Barca, Berukuran 30-35 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 9,
+            "productName": "Ikan Channa Asiatica",
+            "price": 80000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Asiatica.jpg",
+            "description": "Ikan Channa Asiatica, Berukuran 10-15 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 10,
+            "productName": "Ikan Channa Auranti",
+            "price": 500000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Maculata.jpg",
+            "description": "Ikan Channa Auranti, Berukuran 15-20 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 11,
+            "productName": "Ikan Channa Andrao",
+            "price": 200000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Andrao.jpg",
+            "description": "Ikan Channa Andrao, Berukuran 10-20 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 12,
+            "productName": "Ikan Channa Stewarti",
+            "price": 400000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Stewartii.jpg",
+            "description": "Ikan Channa Stewarti, Berukuran 15-20 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 13,
+            "productName": "Ikan Channa Mayang",
+            "price": 50000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Pleurophthalma-e1588680457360.jpg",
+            "description": "Ikan Channa Barca, Berukuran 10-20 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 14,
+            "productName": "Ikan Channa Bleheri",
+            "price": 350000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Bleheri.jpg",
+            "description": "Ikan Channa Bleheri, Berukuran 10-20 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 15,
+            "productName": "Ikan Channa Striata (Albino)",
+            "price": 250000000,
+            "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Striata.jpg",
+            "description": "Ikan Channa Striata, Berukuran 10-20 Cm",
+            "category": "Ikan Predator"
+          },
+          {
+            "id": 16,
+            "productName": "Ikan Tetra",
+            "price": 1000,
+            "productImage": "https://www.99.co/blog/indonesia/wp-content/uploads/2020/08/Neon-tetra.jpg",
+            "description": "Ikan Aquascape Tetra, Ukuran small",
+            "category": "Ikan Aquascape"
+          },
+          {
+            "id": 17,
+            "productName": "Ikan Rainbow Fish",
+            "price": 15000,
+            "productImage": "https://blogpictures.99.co/966063779.jpg",
+            "description": "Ikan Aquascape Rainbow, Ukuran Small",
+            "category": "Ikan Aquascape"
+          },
+          {
+            "id": 18,
+            "productName": "Ikan Angel Fish",
+            "price": 5000,
+            "productImage": "https://blogpictures.99.co/de61cc36be989e842beb6084c5c060d168faae6b.jpg",
+            "description": "Ikan Aquascape Angel Fish, Ukuran Small",
+            "category": "Ikan Aquascape"
+          },
+          {
+            "id": 19,
+            "productName": "Ikan Dwarf Gourami",
+            "price": 15000,
+            "productImage": "https://modestfish.com/wp-content/uploads/2019/03/Dwarf-Gourami.jpg",
+            "description": "Ikan Aquascape Dwarf Gourami, Ukuran Small",
+            "category": "Ikan Aquascape"
+          },
+          {
+            "id": 20,
+            "productName": "Ikan Aquascape Guppy",
+            "price": 3000,
+            "productImage": "https://animals.net/wp-content/uploads/2019/11/Guppy-3-650x425.jpg",
+            "description": "Ikan Aquascape Guppy, Ukuran Small",
+            "category": "Ikan Aquascape"
+          }
+          
+    ],
+    "transaction":[
+        
+    ]
+}
